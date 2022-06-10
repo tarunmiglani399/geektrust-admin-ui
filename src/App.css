@@ -1,0 +1,19 @@
+.table-container {
+  text-align: center;
+  width: 95%;
+  margin: auto;
+  margin-top: 2.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .table-container {
+    width: 85%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .table-container {
+    width: 70%;
+  }
+}
+

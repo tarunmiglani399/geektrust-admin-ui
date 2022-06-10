@@ -1,0 +1,10 @@
+tbody.ant-table-tbody > tr.ant-table-row-selected > td,
+tbody.ant-table-tbody > tr.ant-table-row-selected:hover > td {
+  background-color: rgb(235, 235, 235);
+}
+
+thead.ant-table-thead > tr > th {
+  background-color: rgb(243, 243, 243);
+  font-weight: 700;
+}
+
